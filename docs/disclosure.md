@@ -20,4 +20,6 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W01 · Claude (Opus) · Used for: shaping my topic and drafting project-proposal.md from my composites course material · Checked by: reading every sentence against my formula sheet and lab report; I cut the scope to tension only
+- W02 · Claude (Opus) · Used for: finding what was missing in my M1 submission and the steps to fix it · Checked by: checking both repos on GitHub myself and reading git status before every commit
+- W03 · GitHub Copilot CLI (Copilot Fusion) · Used for: explaining cooling.py, checking the team files with the team-check skill, and writing a commit message · Checked by: reading every command before approving it and checking the commit with git show before pushing it myself
